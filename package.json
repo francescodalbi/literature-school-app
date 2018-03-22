@@ -1,0 +1,22 @@
+{
+  "name": "literature-school-app",
+  "version": "1.0.0",
+  "description": "literature-school-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francescodalbi/literature-school-app.git"
+  },
+  "author": "Francesco Dal Bello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francescodalbi/literature-school-app/issues"
+  },
+  "homepage": "https://github.com/francescodalbi/literature-school-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
